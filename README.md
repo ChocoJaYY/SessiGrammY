@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/x1eVYmP.png" width="800 alt="SessiGrammY logo" />
+  <img src="https://i.imgur.com/x1eVYmP.png" width="1200 alt="SessiGrammY logo" />
 </p>
 
 # 📱 SessiGrammY - A Powerful Telegram Session String Generator
