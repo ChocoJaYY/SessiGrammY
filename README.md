@@ -1,11 +1,17 @@
 <p align="center">
-  <img src="https://i.imgur.com/x1eVYmP.png" width="1200 alt="SessiGrammY logo" />
+  <img src="https://i.imgur.com/x1eVYmP.png" width="1200" alt="SessiGrammY logo" />
 </p>
 
 # 📱 SessiGrammY - A Powerful Telegram Session String Generator
 
 Effortless session generation for Pyrogram & Telethon  
 Securely generate session strings for use in Telegram bots or user automation scripts.
+
+<p align="center">
+  <a href="https://colab.research.google.com/github/ChocoJaYY/SessiGrammY/blob/main/SessiGrammY.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
+  </a>
+</p>
 
 
 <p align="center">
